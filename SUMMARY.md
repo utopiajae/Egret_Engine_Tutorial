@@ -5,7 +5,7 @@
 * [創建Egret項目](content/ep02/ep02.md)
 * [項目內容](content/ep03/ep03.md)
     * [說明](content/ep03/ep03-1.md)
-* [核心庫/第三方庫](content/ep04/ep04.md)
+* [核心庫/第三方庫]()
     * [新增或移除核心庫](content/ep04/ep04-1.md)
     * [自定義第三方函式庫](content/ep04/ep04-2.md)
 * [常用指令語法](content/ep05/ep05.md)
