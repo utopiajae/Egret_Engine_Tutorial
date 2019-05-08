@@ -1,4 +1,4 @@
-![egret_engine_community_header](./img/egret_engine_community_header.JPG)
+![egret_engine_community_header](/Users/jae/Fork/Egret_Engine_Tutorial/img/egret_engine_community_header.JPG)
 
 # About
 
