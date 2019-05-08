@@ -1,4 +1,4 @@
-![egret_engine_community_header](img/egret_engine_community_header.JPG)
+![](img/egret_engine_community_header.JPG)
 
 # About
 
