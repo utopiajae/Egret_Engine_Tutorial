@@ -10,7 +10,5 @@ Tech Team: [Egret Engine Community TW](https://www.facebook.com/groups/egret.com
 
 GitBook: [Egret_Engine_Tutorial](https://egret-engine-community-tw.gitbook.io/egret-engine-tutorial/)
 
-Authors: Jae Chuang / Ollie Ou
-
-Contact: utopia.jae@gmail.com
+Authors: [Jae Chuang](utopia.jae@gmail.com) / Ollie Ou
 
