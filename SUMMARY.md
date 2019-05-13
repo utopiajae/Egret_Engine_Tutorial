@@ -24,4 +24,5 @@
     * [串聯Model與EUI](content/ep07/ep07-5.md)
     * [單例的重要性](content/ep07/ep07-6.md)
     * [邏輯分離](content/ep07/ep07-7.md)
+* [API串接](content/ep08/ep08.md)
 
