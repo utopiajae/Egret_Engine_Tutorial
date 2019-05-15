@@ -16,5 +16,5 @@ Contact:
 
 > Jae Chuang: utopia.jae@gmail.com
 >
-> Ollie Ou:
+> Ollie Ou: ollieotc@gmail.com
 
