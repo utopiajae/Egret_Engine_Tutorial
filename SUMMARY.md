@@ -2,7 +2,7 @@
 
 * [Introduction](README.md)
 * [環境配置](content/ep01/ep01.md)
-* [創建Egret項目](content/ep02/ep02.md)
+* [創建項目](content/ep02/ep02.md)
 * [項目內容](content/ep03/ep03.md)
     * [說明](content/ep03/ep03-1.md)
 * 核心庫/第三方庫
