@@ -18,3 +18,6 @@ Contact:
 >
 > Ollie Ou: ollieotc@gmail.com
 
+## Updated
+
+20190515 ( jae ) : EP01 ~ EP06-2
