@@ -10,6 +10,7 @@
     * [自定義第三方函式庫](content/ep04/ep04-2.md)
     * [核心庫 - Tween](content/ep04/ep04-3.md)
     * [核心庫 - Mouse](content/ep04/ep04-4.md)
+    * [核心庫 - EUI](content/ep04/ep04-5.md)
 * [常用指令語法](content/ep05/ep05.md)
 * [初始項目之創建場景解析](content/ep06/ep06.md)
     * [開啟Egret的大門 - Main.ts](content/ep06/ep06-1.md)
@@ -24,5 +25,7 @@
     * [串聯Model與EUI](content/ep07/ep07-5.md)
     * [單例的重要性](content/ep07/ep07-6.md)
     * [邏輯分離](content/ep07/ep07-7.md)
-* [API串接](content/ep08/ep08.md)
+* API串接
+    * [Ajax / AXIOS](content/ep08/ep08-1.md)
+    * [Web Socket](content/ep08/ep08-2.md)
 
