@@ -25,7 +25,7 @@
     * [串聯Model與EUI](content/ep07/ep07-5.md)
     * [單例的重要性](content/ep07/ep07-6.md)
     * [邏輯分離](content/ep07/ep07-7.md)
-* 與後端串接
-    * [Ajax / AXIOS](content/ep08/ep08-1.md)
+* [與後端串接](content/ep08/ep08.md)
+    * [Axios](content/ep08/ep08-1.md)
     * [Web Socket](content/ep08/ep08-2.md)
 
