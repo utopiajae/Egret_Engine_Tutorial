@@ -16,7 +16,6 @@
     * [開啟Egret的大門 - Main.ts](content/ep06/ep06-1.md)
     * [創建場景](content/ep06/ep06-2.md)
     * [事件偵聽器](content/ep06/ep06-3.md)
-    * [RES](content/ep06/ep06-4.md)
 * [實現多場景](content/ep07/ep07.md)
     * [場景架構](content/ep07/ep07-1.md)
     * [切換場景](content/ep07/ep07-2.md)
