@@ -21,7 +21,7 @@
     * [切換場景](content/ep07/ep07-2.md)
     * [節點概念的重要性](content/ep07/ep07-3.md)
     * [項目重構](content/ep07/ep07-4.md)
-    * [串聯Model與EUI](content/ep07/ep07-5.md)
+    * [畫面佈局](content/ep07/ep07-5.md)
     * [單例的重要性](content/ep07/ep07-6.md)
     * [邏輯分離](content/ep07/ep07-7.md)
 * [與後端串接](content/ep08/ep08.md)
